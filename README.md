@@ -1,2 +1,1 @@
-# nebula
-a discord theme
+## BETTER DISCORD STUFF ##
