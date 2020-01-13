@@ -18,10 +18,10 @@
     --DisplayButtonGift: none;
     --DisplayEmbedPill: none;
     --FilterAccountSecurity: blur(4px);
-    --ColAppBG: #0096cf;
+    --ColAppBG: #081B33;
     --ColAuthBG: url('/assets/fd91131ea693096d6be5e8aa99d18f9e.jpg');
     --ColBackground1: var(--ColAppBG);
-    --ColBackground2: #0096cf;
+    --ColBackground2: #081B33;
     --ColTransparent1: rgba(0, 0, 0, 0.2);
     --ColChannelList: var(--ColBackground2);
     --ColPopout: var(--ColBackground1);
@@ -44,6 +44,7 @@
     --DisplayEmbedPill: none;
     --FilterAccountSecurity: blur(4px)
 }
+
 
 html,
 span:not(.spinner-item) {
