@@ -1,8 +1,8 @@
 {
     "name": "Customa",
     "description": "The most customizable Discord theme",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "The Customa Project",
-    "license": "GPL-3.0-only",
+    "license": "GNU General Public License v3.0",
     "theme": "./Customa.css"
 }
