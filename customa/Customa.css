@@ -1,0 +1,9 @@
+/* Your own Customa Setup here, Example below: */
+@import url("https://devpixel12/betterDiscordStuff/Base/base.m.css");
+
+:root {
+    --ColAppBG: #0096cf;
+    --ColBackground1: #0096cf;
+    --ColBackground2: #fad504;
+    ...
+}
